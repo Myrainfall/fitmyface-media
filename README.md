@@ -7,6 +7,8 @@ This is the public media repository for the [FitMyFace browser tool](https://fit
 
 ## Find the right look or solve a real buying decision
 
+**New 5-minute decision guide:** [Before your next haircut: decide what to keep, compare two options, and explain the cut to your stylist](guides/five-minute-haircut-decision-checklist.md). Free, practical, no signup required to read; includes a direct link to the FitMyFace try-on.
+
 These are existing FitMyFace pages, not a requirement to sign up. Use the free adult browser tool to explore before making a haircut or eyewear purchase; AI previews are illustrative and cannot verify in-person fit or guarantee a haircut.
 
 - **[Try hairstyles on your own photo](https://fitmyface.pages.dev/guides/try-hairstyles-on-your-photo)** — what a photo try-on can show before a haircut and where its limits are.
